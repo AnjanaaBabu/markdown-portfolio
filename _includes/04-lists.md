@@ -4,7 +4,7 @@ Replace this with a list of your favorite things.
 :sparkles:
 :tada:
 
-<ul>
+<ul type="*">
 <li>apple</li>
 <li>orange</li>
 </ul>
