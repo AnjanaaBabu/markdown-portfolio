@@ -4,11 +4,11 @@ Replace this with a list of your favorite things.
 :sparkles:
 :tada:
 
-<ul type="*">
-<li>apple</li>
-<li>orange</li>
-</ul>
-<ol>
-<li>apple</li>
-<li>orange</li>
-</ol>
+ 
+* apple
+* orange
+
+
+1 apple
+2 orange
+
